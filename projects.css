@@ -1,0 +1,86 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: skyblue;
+
+}
+
+.nav {
+    height: 70px;
+    border-bottom:  1px solid black;
+    display: flex;
+    align-items: center;
+}
+
+.nav-right-items {
+    display: flex;
+    margin-left: auto;
+}
+
+.nav-item {
+    margin-left: 10px;
+    margin-right: 15px;
+    text-decoration: none;
+
+    
+}
+
+.page-name {
+    font-size: x-large;
+    text-align: center;
+    text-decoration: black;
+}
+
+.pagename  {
+    border-bottom: 1px  solid black;
+    text-align: center;
+   
+}
+
+
+.pac {
+    text-align: center;
+
+}
+
+.pac-desc {
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+.busimg {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.bus-desc {
+    border-bottom: 1px  solid black;
+    text-align: center;
+}
+
+.eye {
+    text-align: center;
+}
+
+.eyeimg {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.eye-desc {
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+.button {
+    padding: .5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: 1rem;
+    color:#077bff;
+    background-color: transparent;
+    background-image: none;
+    border-color: white;
+    background-color: white;
+    color: white;
+    text-decoration: white;
+}
